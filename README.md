@@ -11,7 +11,7 @@ You can view the live deployment at the link below:
 * **Live URL:** [http://213.35.112.235:8081](http://213.35.112.235:8081)
 > **Note:** Still under maintenance.
 
-> **Deployment Note:** Hosted on a custom Oracle Cloud VPS (ARM/AMD Architecture) running Pterodactyl Panel with Nginx & PHP 8.x FPM container runtime.
+> **Deployment Note:** Hosted on a custom Oracle Cloud VPS (ARM/AMD Architecture)
 
 ---
 
@@ -19,8 +19,5 @@ You can view the live deployment at the link below:
 
 * **Framework:** CodeIgniter 4
 * **Hosting:** Oracle Cloud Infrastructure (OCI)
-* **Control Panel:** Pterodactyl Panel
-* **Web Server:** Nginx
-* **Database:** MySQL
 
 ---
