@@ -9,6 +9,8 @@
     <nav>
         <a href="/">Home</a> |
         <a href="/about">About</a>
+        <a href="/customers">Customers</a>
+        <a href="/users">Users</a>
     </nav>
 
     <p>This basic POS system manages customer and staff information.</p>
