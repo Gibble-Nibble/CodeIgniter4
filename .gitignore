@@ -1,0 +1,17 @@
+# Environment configuration
+.env
+
+# Composer dependencies
+/vendor/
+
+# CodeIgniter writable/runtime files
+/writable/*
+
+# Keep the writable directory itself
+!/writable/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
