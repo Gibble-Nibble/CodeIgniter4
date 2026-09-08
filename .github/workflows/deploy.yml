@@ -26,8 +26,10 @@ jobs:
 
           ssh -i ~/.ssh/deploy_key "$VPS_USER@$VPS_HOST" << 'EOF'
             set -e
-
+            
             cd /var/www/codeigniter
+
+            sudo chown -R ubuntu:ubuntu writable
 
             git fetch origin
             git reset --hard origin/main
