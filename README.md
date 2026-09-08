@@ -9,6 +9,7 @@ A custom web project built with the **CodeIgniter 4** framework.
 You can view the live deployment at the link below:
 
 * **Live URL:** [http://213.35.112.235:8081](http://213.35.112.235:8081)
+> **Note:** Still under maintenance.
 
 > **Deployment Note:** Hosted on a custom Oracle Cloud VPS (ARM/AMD Architecture) running Pterodactyl Panel with Nginx & PHP 8.x FPM container runtime.
 
