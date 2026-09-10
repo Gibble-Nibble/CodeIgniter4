@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>POS System</title>
+    <title>CI4 Demo</title>
 </head>
 <body>
-    <h1>Test From GitHub1</h1>
+    <h1>Test From GitHub</h1>
 
     <nav>
         <a href="/">Home</a> |
