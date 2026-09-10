@@ -4,7 +4,7 @@
     <title>POS System</title>
 </head>
 <body>
-    <h1>Test From GitHub</h1>
+    <h1>Test From GitHub1</h1>
 
     <nav>
         <a href="/">Home</a> |
