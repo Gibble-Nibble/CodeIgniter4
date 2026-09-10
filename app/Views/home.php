@@ -4,7 +4,7 @@
     <title>POS System</title>
 </head>
 <body>
-    <h1>Point-of-Sale System</h1>
+    <h1>Test From GitHub</h1>
 
     <nav>
         <a href="/">Home</a> |
