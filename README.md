@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ My Projects ✦
+# ✦ My CI4 Projects ✦
 
 **A personal archive of projects, activities, experiments, and things I've made.**
 
